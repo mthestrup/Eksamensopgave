@@ -5,3 +5,7 @@ Dette bliver derudover også brugt som logbog.
 
 
 01-02: Arbejdede på nogle visuelle værker, specifikt det første sværd, og logoet til min Mod.
+
+
+
+08-02: Fikset nogle værdier, tilføjet bleed effekt, og har færdiggjort visuel til første sværd.
