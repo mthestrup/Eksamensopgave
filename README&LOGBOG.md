@@ -9,3 +9,4 @@ Dette bliver derudover også brugt som logbog.
 
 
 08-02: Fikset nogle værdier, tilføjet bleed effekt, og har færdiggjort visuel til første sværd.
+09-02: Fikset visuel bug hvor sværdet var skæv i forhold til hånden man brugte til at slå med, så den vendte forkert. Inkorporeret æstetiske additioner til bleed-effekten.
